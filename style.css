@@ -205,7 +205,7 @@ a {
 
 .banner3 {
   width: 815px;
-  height: 596px;
+  height: 400px;
   flex-direction: column;
   align-items: flex-end;
   justify-content: center;
@@ -238,7 +238,7 @@ a {
   width: 139px;
   margin: 0 !important;
   position: absolute;
-  top: 624px;
+  top: 460px;
   left: 112px;
   display: flex;
   flex-direction: row;
@@ -350,7 +350,7 @@ a {
 
 .skills19 {
   position: absolute;
-  top: 820px;
+  top: 620px;
   left: 0;
   align-items: center;
   justify-content: center;
@@ -477,7 +477,7 @@ a {
 
 .testimonial10 {
   position: absolute;
-  top: 1548px;
+  top: 1348px;
   left: 0;
   background-color: var(--primary-black);
   width: 100vw;
@@ -535,7 +535,7 @@ a {
 
 .about-me22 {
   position: absolute;
-  top: 2400px;
+  top: 2220px;
   left: 0;
   width: 100vw;
   overflow: hidden;
@@ -671,7 +671,7 @@ a {
 
 .project1 {
   position: absolute;
-  top: 3092px;
+  top: 2912px;
   left: 0;
   background-color: var(--primary-black);
   width: 100vw;
@@ -852,7 +852,7 @@ a {
 
 .contact-form1 {
   position: absolute;
-  top: 4916px;
+  top: 4830px;
   left: 0;
   background-color: var(--primary-white);
   overflow: hidden;
@@ -898,7 +898,7 @@ a {
 
 .footer2 {
   position: absolute;
-  top: 5520px;
+  top: 5440px;
   left: 0;
   background-color: var(--primary-black);
   width: 100vw;
@@ -915,7 +915,7 @@ a {
   width: 100%;
   position: relative;
   background-color: var(--primary-white);
-  height: 5620px;
+  height: 5530px;
   overflow: hidden;
   text-align: left;
   font-size: var(--outlined-extra-bold-size);
