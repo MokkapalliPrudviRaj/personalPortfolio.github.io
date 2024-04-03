@@ -939,6 +939,7 @@ a {
     align-items: center;
     text-align: center;
     min-height: 100vh;
+    margin: 0px 300px;
   }
 
   .image {
