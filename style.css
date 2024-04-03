@@ -928,7 +928,6 @@ a {
 }
 
 
-
 @media (max-width: 1199px) {
   .boydesktop {
     display: none;
@@ -955,6 +954,7 @@ a {
     font-weight: bold;
   }
 }
+
 
 @media (max-width: 800px) {}
 
