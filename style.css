@@ -2,6 +2,10 @@ html {
   scroll-behavior: smooth;
 }
 
+.errorsrceen {
+  display: none;
+}
+
 .logo-1-icon4 {
   width: 39.9px;
   position: relative;
@@ -924,8 +928,33 @@ a {
 }
 
 
-@media (max-width: 1100px) {}
 
+@media (max-width: 1199px) {
+  .boydesktop {
+    display: none;
+  }
+
+  .errorsrceen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+  }
+
+  .image {
+    width: 200px;
+    height: auto;
+  }
+
+  .p1 {
+    color: #000;
+    text-align: center;
+    margin-top: 0 auto;
+    font-size: 25px;
+    font-weight: bold;
+  }
+}
 
 @media (max-width: 800px) {}
 
